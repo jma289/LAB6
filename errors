@@ -1,0 +1,12 @@
+// errors
+// Jia-hui Ma
+// jma289
+// lab6
+// listing errors in the modified LetterHome.class
+
+1:  (sentence 2, code 4) should be the weather is "cold" but prints the weather is "hot"
+2:  (sentence 3, code 3) should be "next weekend" but prints "last weekend"
+3:  (sentence 4) should be "book" but prints "books"
+4:  (sentence 5, code 2) missing a period after "sent"
+5:  (sentence code out of range) should be "6 is not a valid sentence code" but prints "6 is a valid sentence code"
+6:  (sentence 5, code out of range) should be "Thanks for the ERROR you sent" but prints "Thanks for the ERROR"
